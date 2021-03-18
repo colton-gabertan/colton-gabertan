@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @colton-gabertan
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning fullstack web development, and object oriented programming
+- 🌱 I’m currently learning fullstack web development and object oriented programming
 - 💞️ I’m looking to collaborate on anything involving computer science and software engineering
 - 📫 How to reach me: gabertan.colton@gmail.com
 
