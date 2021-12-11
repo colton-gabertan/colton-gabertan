@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @colton-gabertan
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning fullstack web development and object oriented programming
-- 💞️ I’m looking to collaborate on anything involving computer science and software engineering
-- 📫 How to reach me: gabertan.colton@gmail.com
+### Hi there, I'm Colton - aka [0xCG]👋 
 
-<!---
-colton-gabertan/colton-gabertan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## I like to work on Cybersecurity and Computer Networking!!
+
+- 🔭 I teach as a CodePath Tech Fellow: [AppSec Cybersecurity][course]!
+- 🌱 I’m currently studying at the University of Nevada Las Vegas
+- 🥅 Goals: Publish writeups/ Contribute to open source/ Share interesting code
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+
+[website]: https://gabertan-colton.medium.com/
+[course]: https://courses.codepath.org/snippets/cybersecurity_university/syllabus
+[linkedin]: https://www.linkedin.com/in/colton-gabertan-463836209/
