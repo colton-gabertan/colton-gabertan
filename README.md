@@ -15,5 +15,5 @@
 
 
 [website]: https://gabertan-colton.medium.com/
-[course]: https://courses.codepath.org/snippets/cybersecurity_university/syllabus
+[course]: https://courses.codepath.org/snippets/cybersecurity_university/syllabus_10week
 [linkedin]: https://www.linkedin.com/in/colton-gabertan-463836209/
