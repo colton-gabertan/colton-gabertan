@@ -1,6 +1,6 @@
 ### Hi there, I'm Colton 👋 
 
-## I like to work on Cybersecurity and Computer Networking!!
+## I like to work on Cybersecurity and Software Engineering!
 
 - 🔭 I teach as a CodePath Tech Fellow: [AppSec Cybersecurity][course]!
 - 🌱 I’m currently studying at the University of Nevada Las Vegas
