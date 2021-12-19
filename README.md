@@ -1,4 +1,5 @@
 ### Hi there, I'm Colton 👋 
+<img src="https://github.com/colton-gabertan/colton-gabertan/blob/main/My-img8bit-com-Effect.gif">
 
 ## I like to work on Cybersecurity and Software Engineering!
 
