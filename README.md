@@ -1,5 +1,4 @@
 ### Hi there, I'm Colton 👋 
-<img src="https://github.com/colton-gabertan/colton-gabertan/blob/main/My-img8bit-com-Effect.gif">
 
 ## I like to work on Cybersecurity and Software Engineering!
 
@@ -14,6 +13,7 @@
 
 <br />
 
+<img src="https://github.com/colton-gabertan/colton-gabertan/blob/main/My-img8bit-com-Effect.gif">
 
 [website]: https://gabertan-colton.medium.com/
 [course]: https://courses.codepath.org/snippets/cybersecurity_university/syllabus_10week
