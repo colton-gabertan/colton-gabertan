@@ -5,7 +5,6 @@
 - 🔭 I teach as a CodePath Tech Fellow: [AppSec Cybersecurity][course]!
 - 🌱 I’m currently studying at the University of Nevada Las Vegas
 - 🥅 Goals: Publish writeups/ Contribute to open source/ Share interesting code
-- Side Note: I participated in my first NSA CodeBreaker Challenge this year, and achieved high performer status, standing at the top of all the Nevada universities that competed. I plan to publish my writeup here as soon as the challenge ends!
 
 ### Connect with me:
 
