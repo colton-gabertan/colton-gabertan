@@ -1,9 +1,9 @@
 ### Hi there, I'm Colton 👋 
 
-## I like to work on Cybersecurity and Software Engineering!
+## I'm currently an infosec researcher and engineer
 
-- 🔭 I teach as a CodePath Tech Fellow: [AppSec Cybersecurity][course]!
-- 🌱 I’m currently studying at the University of Nevada Las Vegas
+- 🔭 I taught as a CodePath Tech Fellow: [AppSec Cybersecurity][course]!
+- 🌱 I’m now analyzing malware and reverse engineering @ Mandiant
 - 🥅 Goals: Publish writeups/ Contribute to open source/ Share interesting code
 
 ### Connect with me:
