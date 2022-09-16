@@ -1,10 +1,10 @@
 ### Hi there, I'm Colton 👋 
 
-## I'm currently an infosec researcher and engineer
+## I'm an infosec researcher and engineer.
 
 - 🔭 I taught as a CodePath Tech Fellow: [AppSec Cybersecurity][course]!
-- 🌱 I’m now analyzing malware and reverse engineering @ Mandiant
-- 🥅 Goals: Publish writeups/ Contribute to open source/ Share interesting code
+- 🌱 I'm currently a DevOps practicioner for my university and have previously analyzed and reverse-engineered malware for     Mandiant + Google Cloud Platform
+- 🥅 Goals: Publish writeups/ Contribute to open source/ Share interesting projects
 
 ### Connect with me:
 
