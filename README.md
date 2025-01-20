@@ -3,7 +3,7 @@
 ## I'm an infosec researcher and engineer.
 
 - 🔭 I taught as a CodePath Tech Fellow: [AppSec Cybersecurity][course]!
-- 🌱 I'm currently a DevOps practicioner for my university and have previously analyzed and reverse-engineered malware for     Mandiant + Google Cloud Platform
+- 🌱 I'm a previous DevOps practicioner for my university and have previously analyzed and reverse-engineered malware for     Mandiant + Google Cloud Platform
 - 🥅 Goals: Publish writeups/ Contribute to open source/ Share interesting projects
 
 ### Connect with me:
